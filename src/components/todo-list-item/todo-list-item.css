@@ -1,0 +1,12 @@
+/* .done {
+    text-decoration: line-through;
+} */
+
+.todo-list-item.done .list-item-label {
+    text-decoration: line-through;
+}
+
+.todo-list-item.important .list-item-label {
+    font-weight: 700;
+    color: steelblue;
+}
